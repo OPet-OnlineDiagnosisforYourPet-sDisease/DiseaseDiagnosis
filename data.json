@@ -1,0 +1,40 @@
+{
+    "penyakit": [{
+            "1": {
+                "nama": "Demam",
+                "gejala": [
+                    "Peningkatan suhu tubuh",
+                    "Nyeri otot",
+                    "Sakit kepala",
+                    "Menggigil"
+                ],
+                "saran_perawatan": "Istirahat yang cukup, minum air putih yang cukup, konsumsi makanan bergizi",
+                "pencegahan": "Cuci tangan secara teratur, jaga kebersihan lingkungan, hindari kontak dengan orang yang sakit"
+            },
+            "2": {
+                "nama": "Flu",
+                "gejala": [
+                    "Pilek",
+                    "Batuk",
+                    "Sakit tenggorokan",
+                    "Demam ringan",
+                    "Menggigil"
+                ],
+                "saran_perawatan": "Istirahat yang cukup, minum banyak cairan, konsumsi obat pereda gejala",
+                "pencegahan": "Cuci tangan secara teratur, hindari kontak dengan orang yang sakit, gunakan masker saat berinteraksi dengan orang lain"
+            },
+            "3": {
+                "nama": "Diabetes",
+                "gejala": [
+                    "Sering buang air kecil",
+                    "Dahaga berlebihan",
+                    "Berat badan turun",
+                    "Mudah lelah"
+                ],
+                "saran_perawatan": "Pantau kadar gula darah, konsumsi makanan sehat, olahraga teratur",
+                "pencegahan": "Pertahankan berat badan yang sehat, makan makanan bergizi, hindari makanan tinggi gula"
+            }
+        }
+
+    ]
+}
