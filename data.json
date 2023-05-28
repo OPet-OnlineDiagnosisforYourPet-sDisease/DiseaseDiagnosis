@@ -44,39 +44,63 @@
                 ]
             },
             "4": {
-                "nama": "",
-                "gejala": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
+                "nama": "Hepatitis",
                 "deskripsi_penyakit": [""],
                 "penanganan": [
                     "",
                     ""]
             },
-            "3": {
-                "nama": "",
-                "gejala": [
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
+            "5": {
+                "nama": "Tetanus",
                 "deskripsi_penyakit": [""],
                 "penanganan": [
                     "",
                     ""]
             },
-            "3": {
-                "nama": "",
-                "gejala": [
+            "6": {
+                "nama": "Penyakit ginjal kronis",
+                "deskripsi_penyakit": [""],
+                "penanganan": [
                     "",
+                    ""]
+            },
+            "7": {
+                "nama": "Diabetes",
+                "deskripsi_penyakit": [""],
+                "penanganan": [
                     "",
+                    ""]
+            },
+            "8": {
+                "nama": "Penyakit saluran pencernaan",
+                "deskripsi_penyakit": [""],
+                "penanganan": [
                     "",
-                    ""
-                ],
+                    ""]
+            },
+            "9": {
+                "nama": "Alergi",
+                "deskripsi_penyakit": [""],
+                "penanganan": [
+                    "",
+                    ""]
+            },
+            "10": {
+                "nama": "Radang gusi",
+                "deskripsi_penyakit": [""],
+                "penanganan": [
+                    "",
+                    ""]
+            },
+            "11": {
+                "nama": "Kanker",
+                "deskripsi_penyakit": [""],
+                "penanganan": [
+                    "",
+                    ""]
+            },
+            "12": {
+                "nama": "Ruam kulit",
                 "deskripsi_penyakit": [""],
                 "penanganan": [
                     "",
