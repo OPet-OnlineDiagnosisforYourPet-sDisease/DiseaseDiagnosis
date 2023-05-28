@@ -1,6 +1,6 @@
 {
     "penyakit": [{
-            "1": {
+            "Tick Fever": {
                 "nama": "Demam Kutu",
                 "deskripsi_penyakit": [
                     "Demam kutu, juga dikenal sebagai demam ehrlichiosis atau babesiosis, adalah penyakit yang disebabkan oleh infeksi parasitik yang ditularkan oleh gigitan kutu.",
@@ -17,7 +17,7 @@
                     "Gunakan obat anti-kutu yang direkomendasikan oleh dokter hewan secara teratur untuk mencegah infeksi kutu pada anjing."
                   ]
             },
-            "2": {
+            "Distemper": {
                 "nama": "Distemper",
                 "deskripsi_penyakit": [
                     "Distemper adalah penyakit serius pada anjing yang disebabkan oleh virus Canine Distemper Virus (CDV). Virus ini menyerang sistem pernapasan, pencernaan, dan saraf, dan dapat menyebabkan gejala yang beragam, termasuk demam, batuk, pilek, muntah, diare, kejang, dan gangguan neurologis.",
@@ -32,7 +32,7 @@
                     "6. Vaksinasi rutin sangat penting untuk mencegah distemper pada anjing. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai dengan jadwal yang ditentukan oleh dokter hewan."
                 ]
             },
-            "3": {
+            "Parvovirus": {
                 "nama": "Parvovirus",
                 "deskripsi_penyakit": [
                     "Parvovirus pada anjing adalah penyakit yang sangat menular dan serius. Virus ini dapat menyebabkan infeksi usus dan gejala yang umumnya meliputi muntah, diare berdarah, kehilangan nafsu makan, lemas, dan dehidrasi."
@@ -49,7 +49,7 @@
                     "Saran Pengobatan dan Perawatan: Mengikuti instruksi dan rekomendasi dari dokter hewan yang merawat anjing Anda. Pastikan anjing mendapatkan perawatan medis yang diperlukan dan sesuai. Berikan perhatian ekstra pada kebersihan anjing dan lingkungan sekitarnya. Pemulihan anjing mungkin membutuhkan waktu, jadi bersabarlah dan jangan ragu untuk menghubungi dokter hewan jika ada perubahan atau gejala yang mengkhawatirkan. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai jadwal yang direkomendasikan oleh dokter hewan."
                 ]
             },
-            "4": {
+            "Hepatitis": {
                 "nama": "Hepatitis",
                 "deskripsi_penyakit": [
                     "Hepatitis pada anjing adalah suatu kondisi yang menyebabkan peradangan pada hati anjing. Biasanya disebabkan oleh infeksi virus hepatitis anjing (Canine Adenovirus Type 1, CAV-1). Hepatitis pada anjing dapat mengakibatkan gejala seperti kehilangan nafsu makan, muntah, diare, demam, lesu, perdarahan, dan gangguan fungsi hati."
@@ -65,7 +65,7 @@
                 ]
         
             },
-            "5": {
+            "Tetanus": {
                 "nama": "Tetanus",
                 "deskripsi_penyakit": [
                     "Tetanus pada anjing adalah infeksi bakteri yang disebabkan oleh bakteri Clostridium tetani. Bakteri ini masuk ke dalam tubuh anjing melalui luka terbuka yang terkontaminasi dengan kotoran atau bahan organik lainnya. Bakteri tersebut menghasilkan toksin yang merusak sistem saraf.",
@@ -81,7 +81,7 @@
                     "Perawatan jangka panjang mungkin melibatkan perawatan luka yang baik, nutrisi yang tepat, dan terapi fisik."
                 ]
             },
-            "6": {
+            "Chronic kidney Disease": {
                 "nama": "Penyakit ginjal kronis",
                 "deskripsi_penyakit": [
                     "Penyakit ginjal kronis pada anjing adalah kondisi di mana ginjal mengalami kerusakan progresif dan kehilangan fungsi secara bertahap. Gejala yang umum termasuk kehilangan nafsu makan, muntah, diare, penurunan berat badan, kelelahan, dan meningkatnya haus dan buang air kecil."
@@ -98,7 +98,7 @@
                     "9. Dukungan nutrisi yang direkomendasikan oleh dokter hewan, seperti suplemen omega-3 atau vitamin tertentu."
                 ]
             },
-            "7": {
+            "Diabetes": {
                 "nama": "Diabetes",
                 "deskripsi_penyakit": [
                     "Diabetes adalah kondisi di mana tubuh anjing tidak dapat mengatur gula darah dengan efektif. Ini terjadi ketika produksi insulin yang dihasilkan oleh pankreas anjing tidak mencukupi atau tidak berfungsi dengan baik. Insulin adalah hormon yang membantu mengatur kadar gula darah."
@@ -117,7 +117,7 @@
                     "11. Perawatan gigi secara teratur untuk menjaga kesehatan gigi anjing."
                 ]
             },
-            "8": {
+            "Gastrointestinal Disease": {
                 "nama": "Penyakit saluran pencernaan",
                 "deskripsi_penyakit": [
                     "Gastrointestinal Disease adalah kondisi yang melibatkan gangguan pada saluran pencernaan anjing. Ini bisa termasuk muntah, diare, konstipasi, peradangan usus, infeksi, atau penyakit serius seperti penyakit radang usus (inflammatory bowel disease/IBD) atau penyakit obstruksi usus."
@@ -140,7 +140,7 @@
                     "   - Jaga kebersihan lingkungan anjing untuk mencegah infeksi dan penyebaran penyakit."
                 ]
             },
-            "9": {
+            "Allergies": {
                 "nama": "Alergi",
                 "deskripsi_penyakit": ["Alergi pada anjing adalah respons sistem kekebalan tubuh yang berlebihan terhadap suatu zat tertentu yang sebenarnya tidak berbahaya. Gejalanya meliputi gatal-gatal, ruam kulit, peradangan, bersin, batuk, atau gejala saluran pencernaan seperti muntah dan diare."],
                 "penanganan": [
@@ -153,7 +153,7 @@
                     "7. Buat rencana pengobatan jangka panjang dengan dokter hewan untuk mengurangi reaksi alergi secara keseluruhan."
                 ]
             },
-            "10": {
+            "Gingitivis": {
                 "nama": "Radang gusi",
                 "deskripsi_penyakit": [
                     "Radang gusi pada anjing, juga dikenal sebagai periodontitis, adalah kondisi peradangan yang terjadi di sekitar gigi anjing. Ini adalah masalah umum pada anjing dan dapat menyebabkan rasa sakit, infeksi, kerusakan gigi, dan masalah kesehatan umum lainnya."
@@ -181,7 +181,7 @@
                     "- Periksakan kembali anjing ke dokter hewan secara teratur untuk memantau perkembangan dan melakukan pembersihan gigi profesional jika diperlukan."
                   ]
             },
-            "11": {
+            "Cancers": {
                 "nama": "Kanker",
                 "deskripsi_penyakit": [
                     "Kanker pada anjing adalah kondisi di mana sel-sel abnormal tumbuh dengan cepat dan tidak terkendali di dalam tubuh anjing. Ada berbagai jenis kanker yang dapat mempengaruhi anjing, termasuk kanker kulit, kanker tulang, kanker darah, dan banyak lagi. Seperti halnya pada manusia, kanker pada anjing dapat sangat serius dan membutuhkan perawatan yang tepat."
@@ -195,7 +195,7 @@
                     "6. Dukungan emosional: Menghadapi kanker pada hewan peliharaan dapat menjadi pengalaman yang sulit secara emosional. Cari dukungan dari keluarga, teman, atau kelompok dukungan hewan peliharaan. Diskusikan perasaan Anda dengan dokter hewan atau konsultan hewan jika diperlukan."
                 ]
             },
-            "12": {
+            "Skin Rashes": {
                 "nama": "Ruam kulit",
                 "deskripsi_penyakit": ["Ruam kulit pada anjing adalah kondisi di mana kulit anjing mengalami kemerahan, gatal, peradangan, bengkak, atau pembentukan lepuhan. Ruam kulit dapat disebabkan oleh berbagai faktor, termasuk alergi, infeksi, atau penyakit kulit tertentu."],
                 "penanganan": [
