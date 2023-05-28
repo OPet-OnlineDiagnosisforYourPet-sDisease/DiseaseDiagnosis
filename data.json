@@ -1,6 +1,6 @@
 {
     "penyakit": [{
-            "Tick Fever": {
+            "Tick-Fever": {
                 "nama": "Demam Kutu",
                 "deskripsi_penyakit": [
                     "Demam kutu, juga dikenal sebagai demam ehrlichiosis atau babesiosis, adalah penyakit yang disebabkan oleh infeksi parasitik yang ditularkan oleh gigitan kutu.",
@@ -81,7 +81,7 @@
                     "Perawatan jangka panjang mungkin melibatkan perawatan luka yang baik, nutrisi yang tepat, dan terapi fisik."
                 ]
             },
-            "Chronic kidney Disease": {
+            "Chronic-kidney-Disease": {
                 "nama": "Penyakit ginjal kronis",
                 "deskripsi_penyakit": [
                     "Penyakit ginjal kronis pada anjing adalah kondisi di mana ginjal mengalami kerusakan progresif dan kehilangan fungsi secara bertahap. Gejala yang umum termasuk kehilangan nafsu makan, muntah, diare, penurunan berat badan, kelelahan, dan meningkatnya haus dan buang air kecil."
@@ -117,7 +117,7 @@
                     "11. Perawatan gigi secara teratur untuk menjaga kesehatan gigi anjing."
                 ]
             },
-            "Gastrointestinal Disease": {
+            "Gastrointestinal-Disease": {
                 "nama": "Penyakit saluran pencernaan",
                 "deskripsi_penyakit": [
                     "Gastrointestinal Disease adalah kondisi yang melibatkan gangguan pada saluran pencernaan anjing. Ini bisa termasuk muntah, diare, konstipasi, peradangan usus, infeksi, atau penyakit serius seperti penyakit radang usus (inflammatory bowel disease/IBD) atau penyakit obstruksi usus."
@@ -195,7 +195,7 @@
                     "6. Dukungan emosional: Menghadapi kanker pada hewan peliharaan dapat menjadi pengalaman yang sulit secara emosional. Cari dukungan dari keluarga, teman, atau kelompok dukungan hewan peliharaan. Diskusikan perasaan Anda dengan dokter hewan atau konsultan hewan jika diperlukan."
                 ]
             },
-            "Skin Rashes": {
+            "Skin-Rashes": {
                 "nama": "Ruam kulit",
                 "deskripsi_penyakit": ["Ruam kulit pada anjing adalah kondisi di mana kulit anjing mengalami kemerahan, gatal, peradangan, bengkak, atau pembentukan lepuhan. Ruam kulit dapat disebabkan oleh berbagai faktor, termasuk alergi, infeksi, atau penyakit kulit tertentu."],
                 "penanganan": [
