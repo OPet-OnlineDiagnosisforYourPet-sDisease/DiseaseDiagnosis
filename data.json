@@ -1,39 +1,87 @@
 {
     "penyakit": [{
             "1": {
-                "nama": "Demam",
-                "gejala": [
-                    "Peningkatan suhu tubuh",
-                    "Nyeri otot",
-                    "Sakit kepala",
-                    "Menggigil"
-                ],
-                "saran_perawatan": "Istirahat yang cukup, minum air putih yang cukup, konsumsi makanan bergizi",
-                "pencegahan": "Cuci tangan secara teratur, jaga kebersihan lingkungan, hindari kontak dengan orang yang sakit"
+                "nama": "Demam Kutu",
+                "deskripsi_penyakit": [
+                    "Demam kutu pada anjing, juga dikenal sebagai demam babesiosis, adalah penyakit yang disebabkan oleh parasit yang ditularkan oleh kutu. Penyakit ini umumnya disebabkan oleh spesies Babesia canis dan Babesia gibsoni. Kutu yang terinfeksi dapat menggigit anjing dan menyebarkan parasit ke dalam tubuhnya. Setelah terinfeksi, anjing dapat mengalami berbagai gejala seperti demam, sekresi hidung atau berhingus, kelumpuhan, peningkatan minum dan buang air kecil, serta gangguan neurologis."
+                  ],
+                "penanganan": [
+                    "Pertolongan awal yang dapat dilakukan di rumah adalah dengan memeriksa anjing secara rutin untuk menemukan dan menghapus kutu yang menempel pada tubuhnya. Jika kutu ditemukan, gunakan pinset steril untuk menghapusnya dengan hati-hati, pastikan tidak ada bagian kepala kutu yang tertinggal di kulit anjing. Jika anjing menunjukkan gejala demam atau kelemahan yang tidak biasa, segera hubungi dokter hewan untuk diagnosis dan perawatan yang tepat.",
+                    "Untuk pengobatan, dokter hewan akan melakukan pemeriksaan fisik dan tes darah untuk memastikan diagnosis dan menentukan jenis Babesia yang menyebabkan penyakit. Pengobatan utama untuk demam kutu melibatkan penggunaan obat-obatan seperti imidocarb dipropionate atau diminazenil. Dosis dan durasi pengobatan akan ditentukan oleh dokter hewan berdasarkan kondisi anjing. Dalam beberapa kasus, transfusi darah mungkin diperlukan jika anjing mengalami anemia parah. Selain pengobatan, perawatan simtomatik seperti pemberian cairan intravena juga dapat diberikan sesuai kebutuhan.",
+                    "Selama perawatan, pastikan anjing mendapatkan istirahat yang cukup dan tempat yang nyaman untuk beristirahat. Berikan makanan berkualitas tinggi yang kaya akan nutrisi untuk membantu pemulihan anjing. Pastikan anjing memiliki akses yang cukup ke air bersih dan segar. Lanjutkan perawatan pencegahan kutu secara teratur untuk mencegah infeksi ulang dan masalah lain yang disebabkan oleh kutu."
+                ]
             },
             "2": {
-                "nama": "Flu",
-                "gejala": [
-                    "Pilek",
-                    "Batuk",
-                    "Sakit tenggorokan",
-                    "Demam ringan",
-                    "Menggigil"
+                "nama": "Distemper",,
+                "deskripsi_penyakit": [
+                    "Distemper adalah penyakit serius pada anjing yang disebabkan oleh virus Canine Distemper Virus (CDV). Virus ini menyerang sistem pernapasan, pencernaan, dan saraf, dan dapat menyebabkan gejala yang beragam, termasuk demam, batuk, pilek, muntah, diare, kejang, dan gangguan neurologis.",
+                    "Penyakit ini dapat menyebar melalui kontak langsung dengan sekresi atau tinja anjing yang terinfeksi. Anjing muda dan anjing yang tidak divaksinasi memiliki risiko yang lebih tinggi untuk terinfeksi."
                 ],
-                "saran_perawatan": "Istirahat yang cukup, minum banyak cairan, konsumsi obat pereda gejala",
-                "pencegahan": "Cuci tangan secara teratur, hindari kontak dengan orang yang sakit, gunakan masker saat berinteraksi dengan orang lain"
+                "penanganan": [
+                    "1. Segera periksakan anjing ke dokter hewan untuk diagnosis yang tepat dan penanganan medis yang sesuai.",
+                    "2. Isolasi anjing dari hewan peliharaan lain untuk mencegah penyebaran penyakit.",
+                    "3. Berikan makanan berkualitas tinggi yang mudah dicerna dan pastikan anjing tetap terhidrasi dengan memberikan air bersih dalam jumlah cukup.",
+                    "4. Dokter hewan mungkin meresepkan obat-obatan untuk mengurangi gejala, seperti antibiotik untuk mencegah infeksi sekunder, obat penurun demam, antidiare, dan obat batuk.",
+                    "5. Jaga kebersihan anjing dengan membersihkan mata, hidung, dan telinga secara teratur. Berikan lingkungan yang hangat dan nyaman bagi anjing.",
+                    "6. Vaksinasi rutin sangat penting untuk mencegah distemper pada anjing. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai dengan jadwal yang ditentukan oleh dokter hewan."
+                ]
             },
             "3": {
-                "nama": "Diabetes",
-                "gejala": [
-                    "Sering buang air kecil",
-                    "Dahaga berlebihan",
-                    "Berat badan turun",
-                    "Mudah lelah"
+                "nama": "Parvovirus",
+                "deskripsi_penyakit": [
+                    "Parvovirus pada anjing adalah penyakit yang sangat menular dan serius. Virus ini dapat menyebabkan infeksi usus dan gejala yang umumnya meliputi muntah, diare berdarah, kehilangan nafsu makan, lemas, dan dehidrasi."
                 ],
-                "saran_perawatan": "Pantau kadar gula darah, konsumsi makanan sehat, olahraga teratur",
-                "pencegahan": "Pertahankan berat badan yang sehat, makan makanan bergizi, hindari makanan tinggi gula"
-            }
+                "penanganan": [
+                    "1. Segera konsultasikan ke dokter hewan untuk diagnosis dan perawatan yang tepat.",
+                    "2. Isolasi anjing yang terinfeksi untuk mencegah penyebaran penyakit ke anjing lain.",
+                    "3. Berikan perawatan medis yang direkomendasikan oleh dokter hewan, seperti pemberian cairan intravena untuk mengatasi dehidrasi, obat anti-muntah, dan antibiotik untuk mencegah infeksi sekunder.",
+                    "4. Berikan makanan yang mudah dicerna dan sering dalam porsi kecil untuk memulihkan nafsu makan anjing.",
+                    "5. Pantau tinja anjing secara teratur dan laporkan perubahan kepada dokter hewan.",
+                    "6. Jaga kebersihan lingkungan dengan membersihkan area di sekitar anjing dengan desinfektan yang efektif.",
+                    "7. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai jadwal yang direkomendasikan oleh dokter hewan.",
+                    "Pertolongan Awal di Rumah: Segera hubungi dokter hewan untuk mendapatkan petunjuk lebih lanjut. Isolasi anjing yang terinfeksi dan hindari kontak dengan anjing lain. Berikan air bersih untuk mencegah dehidrasi, tetapi jangan memaksakan makanan. Hindari pengobatan sendiri tanpa pengawasan dokter hewan.",
+                    "Saran Pengobatan dan Perawatan: Mengikuti instruksi dan rekomendasi dari dokter hewan yang merawat anjing Anda. Pastikan anjing mendapatkan perawatan medis yang diperlukan dan sesuai. Berikan perhatian ekstra pada kebersihan anjing dan lingkungan sekitarnya. Pemulihan anjing mungkin membutuhkan waktu, jadi bersabarlah dan jangan ragu untuk menghubungi dokter hewan jika ada perubahan atau gejala yang mengkhawatirkan. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai jadwal yang direkomendasikan oleh dokter hewan."
+                ]
+            },
+            "4": {
+                "nama": "",
+                "gejala": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "deskripsi_penyakit": [""],
+                "penanganan": [
+                    "",
+                    ""]
+            },
+            "3": {
+                "nama": "",
+                "gejala": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "deskripsi_penyakit": [""],
+                "penanganan": [
+                    "",
+                    ""]
+            },
+            "3": {
+                "nama": "",
+                "gejala": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "deskripsi_penyakit": [""],
+                "penanganan": [
+                    "",
+                    ""]
+            },
         }
 
     ]
