@@ -1,22 +1,15 @@
-const fs = require('fs');
+const data = require('./data.json');
 
-function getPenyakitDetail() {
-    const data = fs.readFileSync('./data.json');
-    const jsonData = JSON.parse(data);
-    return jsonData.penyakit[0];
-}
+const getPenyakitByName = (nama) => {
+    const penyakit = data.penyakit.find((item) => item.hasOwnProperty(nama));
 
-function getPenyakitById(id) {
-    const penyakitDetail = getPenyakitDetail();
-    return penyakitDetail[id] || null;
-}
+    if (penyakit) {
+        return penyakit[nama];
+    } else {
+        throw new Error('Penyakit tidak ditemukan');
+    }
+};
 
-function getPenyakitByNama(nama) {
-    const penyakitDetail = getPenyakitDetail();
-    const penyakit = Object.values(penyakitDetail).find(
-        (item) => item.nama.toLowerCase() === nama.toLowerCase()
-    );
-    return penyakit || null;
-}
-
-module.exports = { getPenyakitDetail, getPenyakitById, getPenyakitByNama };
+module.exports = {
+    getPenyakitByName,
+};
