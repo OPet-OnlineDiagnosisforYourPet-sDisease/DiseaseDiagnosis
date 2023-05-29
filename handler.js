@@ -1,15 +1,23 @@
-const data = require('./data.json');
+const fs = require('fs');
 
-const getPenyakitByName = (nama) => {
-  const penyakit = data.penyakit.find(item => item.nama.toLowerCase() === nama.toLowerCase());
+// Membaca data dari file data.json
+const rawData = fs.readFileSync('data.json');
+const data = JSON.parse(rawData);
 
-  if (penyakit) {
-    return penyakit;
-  } else {
-    throw new Error('Penyakit tidak ditemukan');
-  }
+exports.getPenyakit = (req, res) => {
+    const penyakit = Object.keys(data.penyakit);
+    res.json(penyakit);
 };
 
-module.exports = {
-  getPenyakitByName
+exports.getDetailPenyakitIgnoreCase = (req, res) => {
+    const { nama } = req.params;
+    const penyakit = Object.keys(data.penyakit).find((key) =>
+        key.toLowerCase() === nama.toLowerCase()
+    );
+
+    if (penyakit) {
+        res.json(data.penyakit[penyakit]);
+    } else {
+        res.status(404).json({ error: 'Penyakit tidak ditemukan' });
+    }
 };
