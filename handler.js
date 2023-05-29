@@ -1,11 +1,15 @@
 const data = require('./data.json');
 
-function getPenyakit(nama) {
+const getPenyakitByName = (nama) => {
   const penyakit = data.penyakit.find(item => item.nama.toLowerCase() === nama.toLowerCase());
 
-  return penyakit;
-}
+  if (penyakit) {
+    return penyakit;
+  } else {
+    throw new Error('Penyakit tidak ditemukan');
+  }
+};
 
 module.exports = {
-  getPenyakit
+  getPenyakitByName
 };
