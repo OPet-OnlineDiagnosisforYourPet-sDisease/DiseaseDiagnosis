@@ -1,10 +1,11 @@
 const express = require('express');
-const app = express();
 const routes = require('./routes');
 
-app.use('/', routes);
+const app = express();
+const port = 3000;
 
-const port = 8080;
+app.use(routes);
+
 app.listen(port, () => {
-    console.log(`Server running on port ${port}`);
+    console.log(`Server berjalan di http://localhost:${port}`);
 });
