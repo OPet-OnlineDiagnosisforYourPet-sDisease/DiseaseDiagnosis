@@ -1,5 +1,5 @@
 const express = require('express');
-const { getPenyakitByName } = require('./handler');
+const { getPenyakit } = require('./handler');
 
 const router = express.Router();
 
@@ -9,7 +9,7 @@ router.get('/penyakit/:nama', (req, res) => {
   const lowerCaseNama = nama.toLowerCase();
 
   try {
-    const penyakit = getPenyakitByName(lowerCaseNama);
+    const penyakit = getPenyakit(lowerCaseNama);
     res.json(penyakit);
   } catch (error) {
     res.status(404).json({ error: error.message });
