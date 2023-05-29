@@ -4,7 +4,8 @@ const { getPenyakitByName } = require('./handler');
 const router = express.Router();
 
 router.get('/penyakit/:nama', (req, res) => {
-  const { nama } = req.params;
+  let { nama } = req.params;
+  nama = nama.toLowerCase(); // Mengubah nama menjadi huruf kecil
 
   try {
     const penyakit = getPenyakitByName(nama);
