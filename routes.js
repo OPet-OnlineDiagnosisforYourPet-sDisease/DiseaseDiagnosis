@@ -1,17 +1,11 @@
 const express = require('express');
-const { getPenyakitByName } = require('./handler');
+const routes = require('./routes');
 
-const router = express.Router();
+const app = express();
+const port = 3000;
 
-router.get('/penyakit/:nama', (req, res) => {
-    const { nama } = req.params;
+app.use(routes);
 
-    try {
-        const penyakit = getPenyakitByName(nama);
-        res.json(penyakit);
-    } catch (error) {
-        res.status(404).json({ error: error.message });
-    }
+app.listen(port, () => {
+    console.log(`Server berjalan di http://localhost:${port}`);
 });
-
-module.exports = router;
