@@ -6,8 +6,8 @@
                     "Demam kutu, juga dikenal sebagai demam ehrlichiosis atau babesiosis, adalah penyakit yang disebabkan oleh infeksi parasitik yang ditularkan oleh gigitan kutu.",
                     "Gejala umum demam kutu pada anjing meliputi demam, lesu, hilang nafsu makan, penurunan berat badan, muntah, diare, perdarahan, dan pembesaran kelenjar getah bening.",
                     "Pemeriksaan oleh dokter hewan diperlukan untuk diagnosis yang akurat melalui tes darah dan gejala yang terlihat."
-                  ],
-                  "penanganan": [
+                ],
+                "penanganan": [
                     "Bawa anjing Anda ke dokter hewan segera jika Anda mencurigai demam kutu.",
                     "Dokter hewan akan meresepkan antibiotik dan obat anti-parasit yang sesuai untuk mengobati infeksi.",
                     "Penting untuk mengikuti petunjuk dokter hewan secara ketat dan melanjutkan pengobatan hingga selesai.",
@@ -15,7 +15,7 @@
                     "Pastikan anjing tetap nyaman dan mendapatkan istirahat yang cukup.",
                     "Jaga kebersihan anjing dengan rutin membersihkan lingkungan tempat tinggal anjing dan mencuci semua perlengkapan hewan peliharaan yang terkena kutu.",
                     "Gunakan obat anti-kutu yang direkomendasikan oleh dokter hewan secara teratur untuk mencegah infeksi kutu pada anjing."
-                  ]
+                ]
             },
             "Distemper": {
                 "nama": "Distemper",
@@ -63,7 +63,7 @@
                     "6. Selama masa pemulihan, berikan makanan berkualitas tinggi sesuai anjuran dokter hewan.",
                     "7. Jaga kebersihan lingkungan anjing dan hindari paparan terhadap zat-zat berbahaya."
                 ]
-        
+
             },
             "Tetanus": {
                 "nama": "Tetanus",
@@ -157,8 +157,8 @@
                 "nama": "Radang gusi",
                 "deskripsi_penyakit": [
                     "Radang gusi pada anjing, juga dikenal sebagai periodontitis, adalah kondisi peradangan yang terjadi di sekitar gigi anjing. Ini adalah masalah umum pada anjing dan dapat menyebabkan rasa sakit, infeksi, kerusakan gigi, dan masalah kesehatan umum lainnya."
-                  ],
-                  "penanganan": [
+                ],
+                "penanganan": [
                     "1. Pertolongan Awal:",
                     "- Periksa mulut anjing secara teratur untuk melihat tanda-tanda radang gusi, seperti bengkak, perdarahan, dan bau mulut yang tidak sedap.",
                     "- Berikan makanan yang sesuai untuk meminimalkan pembentukan plak, seperti makanan kering yang dirancang khusus untuk kesehatan gigi anjing.",
@@ -179,7 +179,7 @@
                     "- Berikan makanan kering yang dirancang khusus untuk kesehatan gigi anjing.",
                     "- Berikan mainan atau benda kunyah yang disetujui oleh dokter hewan untuk membantu membersihkan gigi dan menjaga kebersihan mulut anjing.",
                     "- Periksakan kembali anjing ke dokter hewan secara teratur untuk memantau perkembangan dan melakukan pembersihan gigi profesional jika diperlukan."
-                  ]
+                ]
             },
             "Cancers": {
                 "nama": "Kanker",
@@ -206,6 +206,46 @@
                     "Ikuti petunjuk dokter hewan dalam memberikan dosis obat dan perawatan kulit yang tepat.",
                     "Pastikan menjaga kebersihan kulit dan bulu anjing, hindari alergen yang diketahui, dan berikan makanan yang sehat.",
                     "Jika ruam disebabkan oleh alergi, dokter hewan dapat memberikan saran mengenai pencegahan dan suplemen yang sesuai."
+                ]
+            },
+            "Flea-Allergy": {
+                "nama": "Flea Allergy Dermatitis",
+                "deskripsi_penyakit": ["Anjing yang mengalami flea allergy merasakan gatal pada tubuhnya. Rasa gatal ini adalah reaksi alergi yang disebabkan oleh gigitan kutu. Untuk bereproduksi, kutu akan menggigit dan menghisap darah anjing. Saat kutu menggigit, ia akan meninggalkan air liur yang kemudian memicu reaksi alergi pada anjing."],
+                "penanganan": [
+                    "Berikan pengobatan kutu secara rutin lalu pastikan kebersihan lingkungan dimana anjing berada.",
+                    "Pencegahan dapat pula dilakukan dengan pemberian obat.",
+                    "Silahkan kunjungi dokter dan klinik hewan terdekat untuk mendapatkan pengobatan yang terbaik."
+                ]
+            },
+            "Hot-Spot": {
+                "nama": "Hot Spot",
+                "deskripsi_penyakit": ["Hot spot biasanya dikenal sebagai pyotraumatic dermatitis atau acute moist dermatitis, yaitu lesi kulit merah yang mengeluarkan cairan dan terkadang mengandung nanah. Pada anjing, hot spot dapat ditemukan di mana saja, namun yang paling umum adalah bagian kepala, kaki dan pinggul. Hot spot dikenali juga sebagai luka yang menimbulkan rasa sakit, gatal dan berbau tidak sedap."],
+                "penanganan": [
+                    "1. Memasang e-collar untuk mencegah anjing menggigit area terinfeksi",
+                    "2. Menutupi area terinfeksi dengan kain atau perban",
+                    "3. Menutupi area terinfeksi dengan kain atau perban",
+                    "4. Silahkan konsultasi dengan dokter hewan untuk mendapatkan pengobatan yang tepat"
+                ]
+            },
+            "Mange": {
+                "nama": "Mange",
+                "deskripsi_penyakit": ["Mange adalah penyakit kulit yang disebabkan oleh tungau mikroskopis. Ada dua jenis tungau penyebab mange, yaitu mange sarcoptik dan mange demodectic. Keduanya memiliki karakteristik yang berbeda, sehingga membutuhkan pengobatan dan perawatan yang berbeda pula."],
+                "penanganan": [
+                    "1. Memberikan shampo permbersih khusus yang memiliki kandungan benzoyl peroxide agar folikel rambutnya terbuka",
+                    "2. Memberikan cairan insektisida yang dikenal dengan amitraz",
+                    "3. Pemberian obat",
+                    "4. Pastikan untuk konsultasi kepada dokter hewan untuk memastikan jenis tungau penyebab mange pada anjing, dan mendapatkan pengobatan yang tepat."
+                ]
+            },
+            "Ringworm": {
+                "nama": "Ringworm",
+                "deskripsi_penyakit": ["Ringworm adalah nama umum yang diberikan untuk infeksi jamur pada kulit, bulu dan kuku. Infeksi ini dapat terjadi pada semua jenis hewan peliharaan, bahkan pada manusia sekalipun. Jamur yang menyebabkan infeksi ringworm adalah kelompok dermatofit. Sehingga dalam istilah medis infeksi ini kerap disebut dermatofitosis. "],
+                "penanganan": [
+                    "1. Mengoleskan krim atau salep pada area yang terinfeksi",
+                    "2. Memberikan obat khusus untuk mengatasi infeksi ini",
+                    "3. Menggunakan shampo yang tepat guna mengusir jamur pada kulit anjing",
+                    "4. Jika ada lebih dari satu hewan peliharaan di rumah, lebih baik memisahkan hewan yang terinfeksi supaya tidak menularkan kepada yang lainnya.",
+                    "5. Konsultasikan kepada dokter hewan untuk pengobatan yang lebih baik."
                 ]
             }
         }
