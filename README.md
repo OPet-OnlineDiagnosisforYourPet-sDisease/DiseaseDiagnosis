@@ -26,12 +26,11 @@ https://diseasediagnosis-iu6qufuohq-uc.a.run.app
         "Jaga kebersihan anjing dengan rutin membersihkan lingkungan tempat tinggal anjing dan mencuci semua perlengkapan hewan peliharaan yang terkena kutu.",
         "Gunakan obat anti-kutu yang direkomendasikan oleh dokter hewan secara teratur untuk mencegah infeksi kutu pada anjing."
     ]
-}
+# }
 
-
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Distemper
-Hasil:
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Distemper
+# Hasil:
+# {
     "nama": "Distemper",
     "deskripsi_penyakit": [
         "Distemper adalah penyakit serius pada anjing yang disebabkan oleh virus Canine Distemper Virus (CDV). Virus ini menyerang sistem pernapasan, pencernaan, dan saraf, dan dapat menyebabkan gejala yang beragam, termasuk demam, batuk, pilek, muntah, diare, kejang, dan gangguan neurologis.",
@@ -45,12 +44,11 @@ Hasil:
         "5. Jaga kebersihan anjing dengan membersihkan mata, hidung, dan telinga secara teratur. Berikan lingkungan yang hangat dan nyaman bagi anjing.",
         "6. Vaksinasi rutin sangat penting untuk mencegah distemper pada anjing. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai dengan jadwal yang ditentukan oleh dokter hewan."
     ]
-}
+# }
 
-
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Parvovirus
-Hasil
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Parvovirus
+# Hasil
+# {
     "nama": "Parvovirus",
     "deskripsi_penyakit": [
         "Parvovirus pada anjing adalah penyakit yang sangat menular dan serius. Virus ini dapat menyebabkan infeksi usus dan gejala yang umumnya meliputi muntah, diare berdarah, kehilangan nafsu makan, lemas, dan dehidrasi."
@@ -66,11 +64,11 @@ Hasil
         "Pertolongan Awal di Rumah: Segera hubungi dokter hewan untuk mendapatkan petunjuk lebih lanjut. Isolasi anjing yang terinfeksi dan hindari kontak dengan anjing lain. Berikan air bersih untuk mencegah dehidrasi, tetapi jangan memaksakan makanan. Hindari pengobatan sendiri tanpa pengawasan dokter hewan.",
         "Saran Pengobatan dan Perawatan: Mengikuti instruksi dan rekomendasi dari dokter hewan yang merawat anjing Anda. Pastikan anjing mendapatkan perawatan medis yang diperlukan dan sesuai. Berikan perhatian ekstra pada kebersihan anjing dan lingkungan sekitarnya. Pemulihan anjing mungkin membutuhkan waktu, jadi bersabarlah dan jangan ragu untuk menghubungi dokter hewan jika ada perubahan atau gejala yang mengkhawatirkan. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai jadwal yang direkomendasikan oleh dokter hewan."
     ]
-}
+# }
 
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Hepatitis
-Hasil:
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Hepatitis
+# Hasil:
+# {
     "nama": "Hepatitis",
     "deskripsi_penyakit": [
         "Hepatitis pada anjing adalah suatu kondisi yang menyebabkan peradangan pada hati anjing. Biasanya disebabkan oleh infeksi virus hepatitis anjing (Canine Adenovirus Type 1, CAV-1). Hepatitis pada anjing dapat mengakibatkan gejala seperti kehilangan nafsu makan, muntah, diare, demam, lesu, perdarahan, dan gangguan fungsi hati."
@@ -84,11 +82,11 @@ Hasil:
         "6. Selama masa pemulihan, berikan makanan berkualitas tinggi sesuai anjuran dokter hewan.",
         "7. Jaga kebersihan lingkungan anjing dan hindari paparan terhadap zat-zat berbahaya."
     ]
-}
+# }
 
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Tetanus
-Hasil:
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Tetanus
+# Hasil:
+# {
     "nama": "Tetanus",
     "deskripsi_penyakit": [
         "Tetanus pada anjing adalah infeksi bakteri yang disebabkan oleh bakteri Clostridium tetani. Bakteri ini masuk ke dalam tubuh anjing melalui luka terbuka yang terkontaminasi dengan kotoran atau bahan organik lainnya. Bakteri tersebut menghasilkan toksin yang merusak sistem saraf.",
@@ -103,11 +101,11 @@ Hasil:
         "Pemberian obat penenang atau antikonvulsan mungkin diperlukan untuk mengendalikan kejang.",
         "Perawatan jangka panjang mungkin melibatkan perawatan luka yang baik, nutrisi yang tepat, dan terapi fisik."
     ]
-}
+# }
 
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Chronic-kidney-Disease
-Hasil:
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Chronic-kidney-Disease
+# Hasil:
+# {
     "nama": "Penyakit ginjal kronis",
     "deskripsi_penyakit": [
         "Penyakit ginjal kronis pada anjing adalah kondisi di mana ginjal mengalami kerusakan progresif dan kehilangan fungsi secara bertahap. Gejala yang umum termasuk kehilangan nafsu makan, muntah, diare, penurunan berat badan, kelelahan, dan meningkatnya haus dan buang air kecil."
@@ -123,11 +121,11 @@ Hasil:
         "8. Melakukan perawatan gigi yang baik untuk mencegah infeksi gigi yang dapat memperburuk penyakit ginjal.",
         "9. Dukungan nutrisi yang direkomendasikan oleh dokter hewan, seperti suplemen omega-3 atau vitamin tertentu."
     ]
-}
+# }
 
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Diabetes
-Hasil:
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Diabetes
+# Hasil:
+# {
     "nama": "Diabetes",
     "deskripsi_penyakit": [
         "Diabetes adalah kondisi di mana tubuh anjing tidak dapat mengatur gula darah dengan efektif. Ini terjadi ketika produksi insulin yang dihasilkan oleh pankreas anjing tidak mencukupi atau tidak berfungsi dengan baik. Insulin adalah hormon yang membantu mengatur kadar gula darah."
@@ -145,11 +143,11 @@ Hasil:
         "10. Segera hubungi dokter hewan jika anjing menunjukkan perubahan perilaku atau gejala yang tidak biasa.",
         "11. Perawatan gigi secara teratur untuk menjaga kesehatan gigi anjing."
     ]
-}
+# }
 
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Gastrointestinal-Disease
-Hasil: 
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Gastrointestinal-Disease
+# Hasil: 
+# {
     "nama": "Penyakit saluran pencernaan",
     "deskripsi_penyakit": [
         "Gastrointestinal Disease adalah kondisi yang melibatkan gangguan pada saluran pencernaan anjing. Ini bisa termasuk muntah, diare, konstipasi, peradangan usus, infeksi, atau penyakit serius seperti penyakit radang usus (inflammatory bowel disease/IBD) atau penyakit obstruksi usus."
@@ -171,11 +169,11 @@ Hasil:
         "   - Diskusikan dengan dokter hewan mengenai diet khusus jangka panjang yang mungkin diperlukan untuk mengelola kondisi.",
         "   - Jaga kebersihan lingkungan anjing untuk mencegah infeksi dan penyebaran penyakit."
     ]
-}
+# }
 
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Allergies
-Hasil: 
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Allergies
+# Hasil: 
+# {
     "nama": "Alergi",
     "deskripsi_penyakit": [
         "Alergi pada anjing adalah respons sistem kekebalan tubuh yang berlebihan terhadap suatu zat tertentu yang sebenarnya tidak berbahaya. Gejalanya meliputi gatal-gatal, ruam kulit, peradangan, bersin, batuk, atau gejala saluran pencernaan seperti muntah dan diare."
@@ -189,11 +187,11 @@ Hasil:
         "6. Jika dicurigai sebagai alergi makanan, dokter hewan dapat merekomendasikan diet eliminasi atau pakan khusus yang tidak mengandung alergen potensial.",
         "7. Buat rencana pengobatan jangka panjang dengan dokter hewan untuk mengurangi reaksi alergi secara keseluruhan."
     ]
-}
+# }
 
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Gingitivis
-Hasil: 
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Gingitivis
+# Hasil: 
+# {
     "nama": "Radang gusi",
     "deskripsi_penyakit": [
         "Radang gusi pada anjing, juga dikenal sebagai periodontitis, adalah kondisi peradangan yang terjadi di sekitar gigi anjing. Ini adalah masalah umum pada anjing dan dapat menyebabkan rasa sakit, infeksi, kerusakan gigi, dan masalah kesehatan umum lainnya."
@@ -220,11 +218,11 @@ Hasil:
         "- Berikan mainan atau benda kunyah yang disetujui oleh dokter hewan untuk membantu membersihkan gigi dan menjaga kebersihan mulut anjing.",
         "- Periksakan kembali anjing ke dokter hewan secara teratur untuk memantau perkembangan dan melakukan pembersihan gigi profesional jika diperlukan."
     ]
-}
+# }
 
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Cancers
-Hasil:
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Cancers
+# Hasil:
+# {
     "nama": "Kanker",
     "deskripsi_penyakit": [
         "Kanker pada anjing adalah kondisi di mana sel-sel abnormal tumbuh dengan cepat dan tidak terkendali di dalam tubuh anjing. Ada berbagai jenis kanker yang dapat mempengaruhi anjing, termasuk kanker kulit, kanker tulang, kanker darah, dan banyak lagi. Seperti halnya pada manusia, kanker pada anjing dapat sangat serius dan membutuhkan perawatan yang tepat."
@@ -237,12 +235,11 @@ Hasil:
         "5. Perawatan jangka panjang: Anjing yang didiagnosis dengan kanker sering membutuhkan perawatan jangka panjang dan pemantauan teratur. Penting untuk mengikuti jadwal kunjungan rutin ke dokter hewan, mengamati perubahan dalam perilaku atau gejala anjing, dan memberikan perawatan yang adekuat sesuai dengan rekomendasi dokter hewan.",
         "6. Dukungan emosional: Menghadapi kanker pada hewan peliharaan dapat menjadi pengalaman yang sulit secara emosional. Cari dukungan dari keluarga, teman, atau kelompok dukungan hewan peliharaan. Diskusikan perasaan Anda dengan dokter hewan atau konsultan hewan jika diperlukan."
     ]
-}
+# }
 
-
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Skin-Rashes
-Hasil:
-{
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Skin-Rashes
+# Hasil:
+# {
     "nama": "Ruam kulit",
     "deskripsi_penyakit": [
         "Ruam kulit pada anjing adalah kondisi di mana kulit anjing mengalami kemerahan, gatal, peradangan, bengkak, atau pembentukan lepuhan. Ruam kulit dapat disebabkan oleh berbagai faktor, termasuk alergi, infeksi, atau penyakit kulit tertentu."
@@ -256,10 +253,71 @@ Hasil:
         "Pastikan menjaga kebersihan kulit dan bulu anjing, hindari alergen yang diketahui, dan berikan makanan yang sehat.",
         "Jika ruam disebabkan oleh alergi, dokter hewan dapat memberikan saran mengenai pencegahan dan suplemen yang sesuai."
     ]
-}
-Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Flu
-Hasil: 
-{
+# }
+
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Flea-Allergy
+# Hasil:
+# {
+    "nama": "Flea Allergy Dermatitis",
+    "deskripsi_penyakit": [
+        "Anjing yang mengalami flea allergy merasakan gatal pada tubuhnya. Rasa gatal ini adalah reaksi alergi yang disebabkan oleh gigitan kutu. Untuk bereproduksi, kutu akan menggigit dan menghisap darah anjing. Saat kutu menggigit, ia akan meninggalkan air liur yang kemudian memicu reaksi alergi pada anjing."
+    ],
+    "penanganan": [
+        "Berikan pengobatan kutu secara rutin lalu pastikan kebersihan lingkungan dimana anjing berada.",
+        "Pencegahan dapat pula dilakukan dengan pemberian obat.",
+        "Silahkan kunjungi dokter dan klinik hewan terdekat untuk mendapatkan pengobatan yang terbaik."
+    ]
+# }
+
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Hot-Spot
+# Hasil:
+# {
+    "nama": "Hot Spot",
+    "deskripsi_penyakit": [
+        "Hot spot biasanya dikenal sebagai pyotraumatic dermatitis atau acute moist dermatitis, yaitu lesi kulit merah yang mengeluarkan cairan dan terkadang mengandung nanah. Pada anjing, hot spot dapat ditemukan di mana saja, namun yang paling umum adalah bagian kepala, kaki dan pinggul. Hot spot dikenali juga sebagai luka yang menimbulkan rasa sakit, gatal dan berbau tidak sedap."
+    ],
+    "penanganan": [
+        "1. Memasang e-collar untuk mencegah anjing menggigit area terinfeksi",
+        "2. Menutupi area terinfeksi dengan kain atau perban",
+        "3. Menutupi area terinfeksi dengan kain atau perban",
+        "4. Silahkan konsultasi dengan dokter hewan untuk mendapatkan pengobatan yang tepat"
+    ]
+# }
+
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Mange
+# Hasil:
+# {
+    "nama": "Mange",
+    "deskripsi_penyakit": [
+        "Mange adalah penyakit kulit yang disebabkan oleh tungau mikroskopis. Ada dua jenis tungau penyebab mange, yaitu mange sarcoptik dan mange demodectic. Keduanya memiliki karakteristik yang berbeda, sehingga membutuhkan pengobatan dan perawatan yang berbeda pula."
+    ],
+    "penanganan": [
+        "1. Memberikan shampo permbersih khusus yang memiliki kandungan benzoyl peroxide agar folikel rambutnya terbuka",
+        "2. Memberikan cairan insektisida yang dikenal dengan amitraz",
+        "3. Pemberian obat",
+        "4. Pastikan untuk konsultasi kepada dokter hewan untuk memastikan jenis tungau penyebab mange pada anjing, dan mendapatkan pengobatan yang tepat."
+    ]
+# }
+
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Ringworm
+# Hasil:
+# {
+    "nama": "Ringworm",
+    "deskripsi_penyakit": [
+        "Ringworm adalah nama umum yang diberikan untuk infeksi jamur pada kulit, bulu dan kuku. Infeksi ini dapat terjadi pada semua jenis hewan peliharaan, bahkan pada manusia sekalipun. Jamur yang menyebabkan infeksi ringworm adalah kelompok dermatofit. Sehingga dalam istilah medis infeksi ini kerap disebut dermatofitosis. "
+    ],
+    "penanganan": [
+        "1. Mengoleskan krim atau salep pada area yang terinfeksi",
+        "2. Memberikan obat khusus untuk mengatasi infeksi ini",
+        "3. Menggunakan shampo yang tepat guna mengusir jamur pada kulit anjing",
+        "4. Jika ada lebih dari satu hewan peliharaan di rumah, lebih baik memisahkan hewan yang terinfeksi supaya tidak menularkan kepada yang lainnya.",
+        "5. Konsultasikan kepada dokter hewan untuk pengobatan yang lebih baik."
+    ]
+# }
+
+# Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Flu
+# Hasil: 
+# {
     "error": "Penyakit tidak ditemukan"
 # }
 
