@@ -1,1 +1,266 @@
 # DiseaseDiagnosis
+
+# API Penyakit
+https://diseasediagnosis-iu6qufuohq-uc.a.run.app
+
+# Diagnosa
+** URL
+    /penyakit/<nama-penyakit>
+** Method
+    GET
+** Response
+    Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Tick-fever
+** Hasil:
+{
+    "nama": "Demam Kutu",
+    "deskripsi_penyakit": [
+        "Demam kutu, juga dikenal sebagai demam ehrlichiosis atau babesiosis, adalah penyakit yang disebabkan oleh infeksi parasitik yang ditularkan oleh gigitan kutu.",
+        "Gejala umum demam kutu pada anjing meliputi demam, lesu, hilang nafsu makan, penurunan berat badan, muntah, diare, perdarahan, dan pembesaran kelenjar getah bening.",
+        "Pemeriksaan oleh dokter hewan diperlukan untuk diagnosis yang akurat melalui tes darah dan gejala yang terlihat."
+    ],
+    "penanganan": [
+        "Bawa anjing Anda ke dokter hewan segera jika Anda mencurigai demam kutu.",
+        "Dokter hewan akan meresepkan antibiotik dan obat anti-parasit yang sesuai untuk mengobati infeksi.",
+        "Penting untuk mengikuti petunjuk dokter hewan secara ketat dan melanjutkan pengobatan hingga selesai.",
+        "Anjing mungkin memerlukan terapi cairan intravena untuk mengatasi dehidrasi atau terapi transfusi darah jika diperlukan.",
+        "Pastikan anjing tetap nyaman dan mendapatkan istirahat yang cukup.",
+        "Jaga kebersihan anjing dengan rutin membersihkan lingkungan tempat tinggal anjing dan mencuci semua perlengkapan hewan peliharaan yang terkena kutu.",
+        "Gunakan obat anti-kutu yang direkomendasikan oleh dokter hewan secara teratur untuk mencegah infeksi kutu pada anjing."
+    ]
+}
+
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Distemper
+Hasil:
+{
+    "nama": "Distemper",
+    "deskripsi_penyakit": [
+        "Distemper adalah penyakit serius pada anjing yang disebabkan oleh virus Canine Distemper Virus (CDV). Virus ini menyerang sistem pernapasan, pencernaan, dan saraf, dan dapat menyebabkan gejala yang beragam, termasuk demam, batuk, pilek, muntah, diare, kejang, dan gangguan neurologis.",
+        "Penyakit ini dapat menyebar melalui kontak langsung dengan sekresi atau tinja anjing yang terinfeksi. Anjing muda dan anjing yang tidak divaksinasi memiliki risiko yang lebih tinggi untuk terinfeksi."
+    ],
+    "penanganan": [
+        "1. Segera periksakan anjing ke dokter hewan untuk diagnosis yang tepat dan penanganan medis yang sesuai.",
+        "2. Isolasi anjing dari hewan peliharaan lain untuk mencegah penyebaran penyakit.",
+        "3. Berikan makanan berkualitas tinggi yang mudah dicerna dan pastikan anjing tetap terhidrasi dengan memberikan air bersih dalam jumlah cukup.",
+        "4. Dokter hewan mungkin meresepkan obat-obatan untuk mengurangi gejala, seperti antibiotik untuk mencegah infeksi sekunder, obat penurun demam, antidiare, dan obat batuk.",
+        "5. Jaga kebersihan anjing dengan membersihkan mata, hidung, dan telinga secara teratur. Berikan lingkungan yang hangat dan nyaman bagi anjing.",
+        "6. Vaksinasi rutin sangat penting untuk mencegah distemper pada anjing. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai dengan jadwal yang ditentukan oleh dokter hewan."
+    ]
+}
+
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Parvovirus
+Hasil
+{
+    "nama": "Parvovirus",
+    "deskripsi_penyakit": [
+        "Parvovirus pada anjing adalah penyakit yang sangat menular dan serius. Virus ini dapat menyebabkan infeksi usus dan gejala yang umumnya meliputi muntah, diare berdarah, kehilangan nafsu makan, lemas, dan dehidrasi."
+    ],
+    "penanganan": [
+        "1. Segera konsultasikan ke dokter hewan untuk diagnosis dan perawatan yang tepat.",
+        "2. Isolasi anjing yang terinfeksi untuk mencegah penyebaran penyakit ke anjing lain.",
+        "3. Berikan perawatan medis yang direkomendasikan oleh dokter hewan, seperti pemberian cairan intravena untuk mengatasi dehidrasi, obat anti-muntah, dan antibiotik untuk mencegah infeksi sekunder.",
+        "4. Berikan makanan yang mudah dicerna dan sering dalam porsi kecil untuk memulihkan nafsu makan anjing.",
+        "5. Pantau tinja anjing secara teratur dan laporkan perubahan kepada dokter hewan.",
+        "6. Jaga kebersihan lingkungan dengan membersihkan area di sekitar anjing dengan desinfektan yang efektif.",
+        "7. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai jadwal yang direkomendasikan oleh dokter hewan.",
+        "Pertolongan Awal di Rumah: Segera hubungi dokter hewan untuk mendapatkan petunjuk lebih lanjut. Isolasi anjing yang terinfeksi dan hindari kontak dengan anjing lain. Berikan air bersih untuk mencegah dehidrasi, tetapi jangan memaksakan makanan. Hindari pengobatan sendiri tanpa pengawasan dokter hewan.",
+        "Saran Pengobatan dan Perawatan: Mengikuti instruksi dan rekomendasi dari dokter hewan yang merawat anjing Anda. Pastikan anjing mendapatkan perawatan medis yang diperlukan dan sesuai. Berikan perhatian ekstra pada kebersihan anjing dan lingkungan sekitarnya. Pemulihan anjing mungkin membutuhkan waktu, jadi bersabarlah dan jangan ragu untuk menghubungi dokter hewan jika ada perubahan atau gejala yang mengkhawatirkan. Pastikan anjing Anda mendapatkan vaksinasi lengkap sesuai jadwal yang direkomendasikan oleh dokter hewan."
+    ]
+}
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Hepatitis
+Hasil:
+{
+    "nama": "Hepatitis",
+    "deskripsi_penyakit": [
+        "Hepatitis pada anjing adalah suatu kondisi yang menyebabkan peradangan pada hati anjing. Biasanya disebabkan oleh infeksi virus hepatitis anjing (Canine Adenovirus Type 1, CAV-1). Hepatitis pada anjing dapat mengakibatkan gejala seperti kehilangan nafsu makan, muntah, diare, demam, lesu, perdarahan, dan gangguan fungsi hati."
+    ],
+    "penanganan": [
+        "1. Segera hubungi dokter hewan untuk diagnosis dan saran penanganan yang tepat.",
+        "2. Isolasi anjing yang terinfeksi untuk mencegah penyebaran infeksi.",
+        "3. Berikan perawatan simptomatik seperti obat untuk mengatasi gejala muntah, diare, atau demam.",
+        "4. Dokter hewan dapat meresepkan pengobatan spesifik berupa obat antivirus atau obat pendukung fungsi hati.",
+        "5. Pastikan anjing tetap terhidrasi dengan memberikan air bersih dan segar secara teratur.",
+        "6. Selama masa pemulihan, berikan makanan berkualitas tinggi sesuai anjuran dokter hewan.",
+        "7. Jaga kebersihan lingkungan anjing dan hindari paparan terhadap zat-zat berbahaya."
+    ]
+}
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Tetanus
+Hasil:
+{
+    "nama": "Tetanus",
+    "deskripsi_penyakit": [
+        "Tetanus pada anjing adalah infeksi bakteri yang disebabkan oleh bakteri Clostridium tetani. Bakteri ini masuk ke dalam tubuh anjing melalui luka terbuka yang terkontaminasi dengan kotoran atau bahan organik lainnya. Bakteri tersebut menghasilkan toksin yang merusak sistem saraf.",
+        "Gejala tetanus pada anjing meliputi kejang otot, kekakuan pada tubuh, kesulitan makan atau menelan, kelelahan, dan sensitivitas terhadap rangsangan eksternal.",
+        "Pengobatan tetanus pada anjing melibatkan pembersihan luka dengan hati-hati, pemberian antibiotik untuk melawan infeksi, dan pengobatan simtomatik untuk mengendalikan kejang. Perawatan jangka panjang mungkin diperlukan dengan perawatan luka yang baik, nutrisi yang tepat, dan terapi fisik untuk membantu pemulihan saraf dan otot."
+    ],
+    "penanganan": [
+        "Bawa anjing ke dokter hewan segera untuk penilaian dan diagnosis yang akurat.",
+        "Pastikan lingkungan anjing tenang dan hindari rangsangan yang berlebihan.",
+        "Berikan makanan lembek atau cair jika anjing tidak dapat mengunyah atau menelan makanan.",
+        "Dokter hewan akan membersihkan luka dengan hati-hati dan memberikan antibiotik untuk melawan infeksi.",
+        "Pemberian obat penenang atau antikonvulsan mungkin diperlukan untuk mengendalikan kejang.",
+        "Perawatan jangka panjang mungkin melibatkan perawatan luka yang baik, nutrisi yang tepat, dan terapi fisik."
+    ]
+}
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Chronic-kidney-Disease
+Hasil:
+{
+    "nama": "Penyakit ginjal kronis",
+    "deskripsi_penyakit": [
+        "Penyakit ginjal kronis pada anjing adalah kondisi di mana ginjal mengalami kerusakan progresif dan kehilangan fungsi secara bertahap. Gejala yang umum termasuk kehilangan nafsu makan, muntah, diare, penurunan berat badan, kelelahan, dan meningkatnya haus dan buang air kecil."
+    ],
+    "penanganan": [
+        "1. Konsultasikan dengan dokter hewan untuk diagnosis yang akurat dan rekomendasi perawatan yang tepat.",
+        "2. Diet khusus yang direkomendasikan oleh dokter hewan, seperti makanan rendah protein, rendah fosfor, dan rendah garam.",
+        "3. Pemberian obat-obatan yang diresepkan oleh dokter hewan, seperti ACE inhibitors atau obat penurun tekanan darah.",
+        "4. Terapi cairan intravena atau subkutan untuk memperbaiki hidrasi dan membantu mengeluarkan toksin dari tubuh.",
+        "5. Pertolongan awal di rumah meliputi menjaga hidrasi dengan memberikan air dalam jumlah yang cukup dan segera menghubungi dokter hewan jika gejala memburuk.",
+        "6. Pengawasan dan pemantauan kondisi anjing secara teratur dengan mengukur asupan air, frekuensi buang air kecil, dan berat badan.",
+        "7. Menyediakan lingkungan yang nyaman dan minim stres untuk anjing.",
+        "8. Melakukan perawatan gigi yang baik untuk mencegah infeksi gigi yang dapat memperburuk penyakit ginjal.",
+        "9. Dukungan nutrisi yang direkomendasikan oleh dokter hewan, seperti suplemen omega-3 atau vitamin tertentu."
+    ]
+}
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Diabetes
+Hasil:
+{
+    "nama": "Diabetes",
+    "deskripsi_penyakit": [
+        "Diabetes adalah kondisi di mana tubuh anjing tidak dapat mengatur gula darah dengan efektif. Ini terjadi ketika produksi insulin yang dihasilkan oleh pankreas anjing tidak mencukupi atau tidak berfungsi dengan baik. Insulin adalah hormon yang membantu mengatur kadar gula darah."
+    ],
+    "penanganan": [
+        "1. Kunjungi dokter hewan untuk mengkonfirmasi diagnosis dan mendapatkan panduan yang tepat.",
+        "2. Berikan insulin sesuai dengan dosis dan jadwal yang direkomendasikan oleh dokter hewan.",
+        "3. Berikan makanan dengan diet rendah karbohidrat, serat tinggi, dan kandungan protein moderat, sesuai rekomendasi dokter hewan.",
+        "4. Pastikan anjing Anda mendapatkan olahraga teratur untuk membantu mengendalikan kadar gula darah.",
+        "5. Jangan mencoba memberikan insulin tanpa saran dokter hewan.",
+        "6. Perhatikan gejala-gejala diabetes pada anjing, seperti sering buang air kecil, meningkatnya konsumsi air, penurunan berat badan, kehilangan nafsu makan, dan kelelahan yang tidak wajar.",
+        "7. Jika mencurigai diabetes, segera hubungi dokter hewan.",
+        "8. Patuhi jadwal pemberian insulin sesuai dengan instruksi dokter hewan.",
+        "9. Pantau kadar gula darah anjing secara rutin sesuai anjuran dokter hewan.",
+        "10. Segera hubungi dokter hewan jika anjing menunjukkan perubahan perilaku atau gejala yang tidak biasa.",
+        "11. Perawatan gigi secara teratur untuk menjaga kesehatan gigi anjing."
+    ]
+}
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Gastrointestinal-Disease
+Hasil: 
+{
+    "nama": "Penyakit saluran pencernaan",
+    "deskripsi_penyakit": [
+        "Gastrointestinal Disease adalah kondisi yang melibatkan gangguan pada saluran pencernaan anjing. Ini bisa termasuk muntah, diare, konstipasi, peradangan usus, infeksi, atau penyakit serius seperti penyakit radang usus (inflammatory bowel disease/IBD) atau penyakit obstruksi usus."
+    ],
+    "penanganan": [
+        "1. Konsultasikan dengan dokter hewan untuk diagnosis yang akurat dan rencana perawatan yang sesuai.",
+        "2. Pertolongan Pertama:",
+        "   - Berikan air minum dalam jumlah kecil dan sering.",
+        "   - Jika anjing muntah, berikan makanan dalam jumlah kecil dan sering dengan makanan yang mudah dicerna seperti nasi putih rebus dan ayam tanpa tulang.",
+        "   - Jika anjing mengalami diare, batasi aksesnya terhadap makanan selama beberapa waktu.",
+        "   - Hindari memberikan makanan manusia yang berpotensi merusak saluran pencernaan anjing.",
+        "3. Penanganan Medis:",
+        "   - Ikuti instruksi dokter hewan mengenai pengobatan dengan obat-obatan seperti antibiotik, antidiare, atau antiinflamasi.",
+        "   - Diet khusus mungkin direkomendasikan oleh dokter hewan untuk mengurangi peradangan, seperti makanan dengan protein terhidrolisis atau makanan rendah serat.",
+        "   - Suplemen, seperti probiotik atau prebiotik, dapat membantu memulihkan keseimbangan bakteri usus yang sehat.",
+        "   - Pengobatan terhadap kondisi yang mendasari seperti parasit usus atau infeksi.",
+        "4. Perawatan dan Perubahan Gaya Hidup:",
+        "   - Pastikan anjing mendapatkan istirahat yang cukup dan tidak terlalu stres.",
+        "   - Diskusikan dengan dokter hewan mengenai diet khusus jangka panjang yang mungkin diperlukan untuk mengelola kondisi.",
+        "   - Jaga kebersihan lingkungan anjing untuk mencegah infeksi dan penyebaran penyakit."
+    ]
+}
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Allergies
+Hasil: 
+{
+    "nama": "Alergi",
+    "deskripsi_penyakit": [
+        "Alergi pada anjing adalah respons sistem kekebalan tubuh yang berlebihan terhadap suatu zat tertentu yang sebenarnya tidak berbahaya. Gejalanya meliputi gatal-gatal, ruam kulit, peradangan, bersin, batuk, atau gejala saluran pencernaan seperti muntah dan diare."
+    ],
+    "penanganan": [
+        "1. Identifikasi alergen yang memicu reaksi alergi pada anjing.",
+        "2. Hindari paparan anjing terhadap alergen tersebut.",
+        "3. Berikan obat yang direkomendasikan oleh dokter hewan, seperti antihistamin atau kortikosteroid, sesuai petunjuk.",
+        "4. Jika reaksi alergi parah, segera cari bantuan medis darurat.",
+        "5. Lakukan perawatan kulit dengan mandi yang cocok untuk kulit alergi dan menggunakan sampo atau produk topikal yang direkomendasikan oleh dokter hewan.",
+        "6. Jika dicurigai sebagai alergi makanan, dokter hewan dapat merekomendasikan diet eliminasi atau pakan khusus yang tidak mengandung alergen potensial.",
+        "7. Buat rencana pengobatan jangka panjang dengan dokter hewan untuk mengurangi reaksi alergi secara keseluruhan."
+    ]
+}
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Gingitivis
+Hasil: 
+{
+    "nama": "Radang gusi",
+    "deskripsi_penyakit": [
+        "Radang gusi pada anjing, juga dikenal sebagai periodontitis, adalah kondisi peradangan yang terjadi di sekitar gigi anjing. Ini adalah masalah umum pada anjing dan dapat menyebabkan rasa sakit, infeksi, kerusakan gigi, dan masalah kesehatan umum lainnya."
+    ],
+    "penanganan": [
+        "1. Pertolongan Awal:",
+        "- Periksa mulut anjing secara teratur untuk melihat tanda-tanda radang gusi, seperti bengkak, perdarahan, dan bau mulut yang tidak sedap.",
+        "- Berikan makanan yang sesuai untuk meminimalkan pembentukan plak, seperti makanan kering yang dirancang khusus untuk kesehatan gigi anjing.",
+        "- Gunakan sikat gigi dan pasta gigi khusus anjing untuk membersihkan gigi dan gusi secara teratur.",
+        "",
+        "2. Pengobatan:",
+        "- Bawa anjing Anda ke dokter hewan untuk pemeriksaan menyeluruh dan diagnosis yang akurat.",
+        "- Dokter hewan mungkin akan melakukan pembersihan gigi profesional di bawah anestesi untuk menghilangkan plak, tartar, dan bakteri yang menyebabkan radang gusi.",
+        "- Jika infeksi gigi parah, mungkin perlu dilakukan pencabutan gigi yang terkena.",
+        "",
+        "3. Penanganan:",
+        "- Setelah diagnosis, dokter hewan dapat meresepkan antibiotik atau obat anti-inflamasi untuk mengatasi infeksi dan peradangan.",
+        "- Ikuti instruksi dokter hewan tentang dosis dan jadwal pemberian obat dengan cermat.",
+        "- Berikan makanan lunak atau basah yang lebih mudah dikonsumsi selama pemulihan.",
+        "",
+        "4. Perawatan Pasca-Diagnosis:",
+        "- Lanjutkan rutinitas kebersihan gigi dengan menyikat gigi anjing secara teratur menggunakan pasta gigi khusus anjing.",
+        "- Berikan makanan kering yang dirancang khusus untuk kesehatan gigi anjing.",
+        "- Berikan mainan atau benda kunyah yang disetujui oleh dokter hewan untuk membantu membersihkan gigi dan menjaga kebersihan mulut anjing.",
+        "- Periksakan kembali anjing ke dokter hewan secara teratur untuk memantau perkembangan dan melakukan pembersihan gigi profesional jika diperlukan."
+    ]
+}
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Cancers
+Hasil:
+{
+    "nama": "Kanker",
+    "deskripsi_penyakit": [
+        "Kanker pada anjing adalah kondisi di mana sel-sel abnormal tumbuh dengan cepat dan tidak terkendali di dalam tubuh anjing. Ada berbagai jenis kanker yang dapat mempengaruhi anjing, termasuk kanker kulit, kanker tulang, kanker darah, dan banyak lagi. Seperti halnya pada manusia, kanker pada anjing dapat sangat serius dan membutuhkan perawatan yang tepat."
+    ],
+    "penanganan": [
+        "1. Konsultasikan dengan dokter hewan: Setelah mendeteksi gejala-gejala yang mencurigakan, penting untuk membawa anjing Anda ke dokter hewan. Dokter hewan akan melakukan pemeriksaan fisik menyeluruh dan mungkin merekomendasikan tes tambahan, seperti biopsi atau pencitraan, untuk membuat diagnosis yang akurat.",
+        "2. Penanganan awal: Tindakan pertama yang mungkin diambil adalah menghilangkan tumor atau menjalani terapi radiasi untuk menghancurkan sel-sel kanker. Beberapa kanker juga dapat memerlukan kemoterapi. Tindakan apa pun harus disesuaikan dengan jenis dan tingkat keparahan kanker serta umur dan kondisi umum anjing.",
+        "3. Pengobatan: Rencana pengobatan yang tepat akan ditentukan berdasarkan jenis kanker, stadium, dan kesehatan umum anjing. Ini dapat mencakup pembedahan lanjutan untuk mengangkat tumor yang tersisa, terapi radiasi, kemoterapi, imunoterapi, atau terapi target.",
+        "4. Perawatan paliatif: Terkadang, kanker tidak dapat disembuhkan sepenuhnya. Dalam kasus ini, fokus perawatan beralih ke perawatan paliatif untuk membantu mengontrol gejala, meningkatkan kualitas hidup, dan memberikan kenyamanan pada anjing. Ini dapat melibatkan penggunaan obat penghilang rasa sakit, terapi suportif, atau perubahan dalam diet dan nutrisi anjing.",
+        "5. Perawatan jangka panjang: Anjing yang didiagnosis dengan kanker sering membutuhkan perawatan jangka panjang dan pemantauan teratur. Penting untuk mengikuti jadwal kunjungan rutin ke dokter hewan, mengamati perubahan dalam perilaku atau gejala anjing, dan memberikan perawatan yang adekuat sesuai dengan rekomendasi dokter hewan.",
+        "6. Dukungan emosional: Menghadapi kanker pada hewan peliharaan dapat menjadi pengalaman yang sulit secara emosional. Cari dukungan dari keluarga, teman, atau kelompok dukungan hewan peliharaan. Diskusikan perasaan Anda dengan dokter hewan atau konsultan hewan jika diperlukan."
+    ]
+}
+
+
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Skin-Rashes
+Hasil:
+{
+    "nama": "Ruam kulit",
+    "deskripsi_penyakit": [
+        "Ruam kulit pada anjing adalah kondisi di mana kulit anjing mengalami kemerahan, gatal, peradangan, bengkak, atau pembentukan lepuhan. Ruam kulit dapat disebabkan oleh berbagai faktor, termasuk alergi, infeksi, atau penyakit kulit tertentu."
+    ],
+    "penanganan": [
+        "Bawa anjing Anda ke dokter hewan untuk diagnosis yang tepat.",
+        "Hindari menggaruk ruam kulit untuk mencegah infeksi sekunder.",
+        "Jika ruam disebabkan oleh gigitan serangga atau alergi ringan, bersihkan area yang terkena dengan air hangat dan sabun ringan.",
+        "Dokter hewan akan meresepkan pengobatan yang sesuai, seperti antihistamin, kortikosteroid, atau antibiotik jika diperlukan.",
+        "Ikuti petunjuk dokter hewan dalam memberikan dosis obat dan perawatan kulit yang tepat.",
+        "Pastikan menjaga kebersihan kulit dan bulu anjing, hindari alergen yang diketahui, dan berikan makanan yang sehat.",
+        "Jika ruam disebabkan oleh alergi, dokter hewan dapat memberikan saran mengenai pencegahan dan suplemen yang sesuai."
+    ]
+}
+Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Flu
+Hasil: 
+{
+    "error": "Penyakit tidak ditemukan"
+}
+
