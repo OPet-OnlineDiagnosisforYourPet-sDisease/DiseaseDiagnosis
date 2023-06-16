@@ -3,15 +3,14 @@
 # API Penyakit
 https://diseasediagnosis-iu6qufuohq-uc.a.run.app
 
-# Diagnosa
-** URL
+# URL
     /penyakit/<nama-penyakit>
-** Method
+# Method
     GET
-** Response
+# Response
     Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Tick-fever
-** Hasil:
-{
+# Hasil:
+# {
     "nama": "Demam Kutu",
     "deskripsi_penyakit": [
         "Demam kutu, juga dikenal sebagai demam ehrlichiosis atau babesiosis, adalah penyakit yang disebabkan oleh infeksi parasitik yang ditularkan oleh gigitan kutu.",
@@ -262,5 +261,5 @@ Ex: https://diseasediagnosis-iu6qufuohq-uc.a.run.app/penyakit/Flu
 Hasil: 
 {
     "error": "Penyakit tidak ditemukan"
-}
+# }
 
